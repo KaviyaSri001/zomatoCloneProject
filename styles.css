@@ -44,6 +44,11 @@
     gap: 32px;
     height: calc(60vh, 60px);
 }
+
+.hero_section_container img{
+    margin-top: 70px;
+}
+
 .hero_section_logo{
     width: 200px;
     height: auto;
